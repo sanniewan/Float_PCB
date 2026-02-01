@@ -9,6 +9,17 @@
 *-save.pro
 *-save.kicad_sch
 *-save.kicad_pcb
+# Backups
+/backups/
+*.bak
+*.autosave
+
+# KiCad generated
+*-cache.lib
+*.prl
+*.net
+*.dsn
+*.ses
 
 # Cache libraries (auto-generated)
 *-cache.lib
@@ -60,4 +71,15 @@ __pycache__/
 # =========================
 build/
 output/
+# Backups
+/backups/
+*.bak
+*.autosave
+
+# KiCad generated
+*-cache.lib
+*.prl
+*.net
+*.dsn
+*.ses
 

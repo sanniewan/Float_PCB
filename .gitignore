@@ -1,0 +1,63 @@
+# =========================
+# KiCad temporary / backup
+# =========================
+*.bak
+*.tmp
+*.autosave
+*.kicad_sch-bak
+*.kicad_pcb-bak
+*-save.pro
+*-save.kicad_sch
+*-save.kicad_pcb
+
+# Cache libraries (auto-generated)
+*-cache.lib
+*-cache.bak
+
+# =========================
+# KiCad generated outputs
+# =========================
+*.net
+*.dsn
+*.ses
+*.xml
+
+# Plot outputs (enable only if you don't want to version them)
+# Uncomment if you generate often
+# *.gbr
+# *.drl
+# *.ps
+# *.svg
+# *.pdf
+
+# =========================
+# Simulation / temp
+# =========================
+*.raw
+*.log
+*.csv
+
+# =========================
+# OS junk
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Editor junk
+# =========================
+.vscode/
+.idea/
+
+# =========================
+# Python / scripts
+# =========================
+__pycache__/
+*.pyc
+
+# =========================
+# Build / release folders
+# =========================
+build/
+output/
+

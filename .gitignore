@@ -9,10 +9,12 @@
 *-save.pro
 *-save.kicad_sch
 *-save.kicad_pcb
+
 # Backups
 /backups/
 *.bak
 *.autosave
+*.kicad_pro
 
 # KiCad generated
 *-cache.lib
